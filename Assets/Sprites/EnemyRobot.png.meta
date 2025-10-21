@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 891085a424d53024c9e9edc361fd534a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6965797513688377477
+    second: EnemyRobot_0
+  - first:
+      213: -5839444514408148367
+    second: EnemyRobot_1
+  - first:
+      213: 5575233436847482338
+    second: EnemyRobot_2
+  - first:
+      213: -92063952982630535
+    second: EnemyRobot_3
+  - first:
+      213: 7843172209349304246
+    second: EnemyRobot_4
+  - first:
+      213: 7108501900311703259
+    second: EnemyRobot_5
+  - first:
+      213: 4516144266011711722
+    second: EnemyRobot_6
+  - first:
+      213: -4445155555343678045
+    second: EnemyRobot_7
+  - first:
+      213: -8995847468020431386
+    second: EnemyRobot_8
+  - first:
+      213: 5519222252387122702
+    second: EnemyRobot_9
+  - first:
+      213: 557291316147274553
+    second: EnemyRobot_10
+  - first:
+      213: -9215604814575556955
+    second: EnemyRobot_11
+  - first:
+      213: 3486946960449538076
+    second: EnemyRobot_12
+  - first:
+      213: -68625749906981452
+    second: EnemyRobot_13
+  - first:
+      213: -5529634120390635149
+    second: EnemyRobot_14
+  - first:
+      213: -6946282903340033132
+    second: EnemyRobot_15
+  - first:
+      213: -8296248270417913349
+    second: EnemyRobot_16
+  - first:
+      213: -6631612118160039286
+    second: EnemyRobot_17
+  - first:
+      213: -7594696495842243357
+    second: EnemyRobot_18
+  - first:
+      213: -2463468093596248397
+    second: EnemyRobot_19
+  - first:
+      213: -1551567211874864294
+    second: EnemyRobot_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyRobot_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 326
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588e1bcaeeb7ba060800000000000000
+      internalID: 6965797513688377477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 250
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1725911272026fea0800000000000000
+      internalID: -5839444514408148367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 231
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5ac2f95453f5d40800000000000000
+      internalID: 5575233436847482338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 314
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f1ad1925ce8bef0800000000000000
+      internalID: -92063952982630535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 231
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf1b7ac19b88dc60800000000000000
+      internalID: 7843172209349304246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 242
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdea44dd0d876a260800000000000000
+      internalID: 7108501900311703259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 220
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae89b0a48419cae30800000000000000
+      internalID: 4516144266011711722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 141
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5c268e292af42c0800000000000000
+      internalID: -4445155555343678045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 213
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e58b0fc364582380800000000000000
+      internalID: -8995847468020431386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 220
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e37fd7567389c40800000000000000
+      internalID: 5519222252387122702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 141
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9334e57df75ebb700800000000000000
+      internalID: 557291316147274553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a628dc5f389b1080800000000000000
+      internalID: -9215604814575556955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 136
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18093039cf146030800000000000000
+      internalID: 3486946960449538076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 129
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd795a7e313c0ff0800000000000000
+      internalID: -68625749906981452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3719c34901bc243b0800000000000000
+      internalID: -5529634120390635149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 93
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b5c0d9088d99f90800000000000000
+      internalID: -6946282903340033132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 16
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf99a49472ecddc80800000000000000
+      internalID: -8296248270417913349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 95
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8225e01ae7c7f3a0800000000000000
+      internalID: -6631612118160039286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 16
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec4b6486c73a9690800000000000000
+      internalID: -7594696495842243357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 12
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6dfa522d000ddd0800000000000000
+      internalID: -2463468093596248397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRobot_20
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a533e0367d9b77ae0800000000000000
+      internalID: -1551567211874864294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EnemyRobot_0: 6965797513688377477
+      EnemyRobot_1: -5839444514408148367
+      EnemyRobot_10: 557291316147274553
+      EnemyRobot_11: -9215604814575556955
+      EnemyRobot_12: 3486946960449538076
+      EnemyRobot_13: -68625749906981452
+      EnemyRobot_14: -5529634120390635149
+      EnemyRobot_15: -6946282903340033132
+      EnemyRobot_16: -8296248270417913349
+      EnemyRobot_17: -6631612118160039286
+      EnemyRobot_18: -7594696495842243357
+      EnemyRobot_19: -2463468093596248397
+      EnemyRobot_2: 5575233436847482338
+      EnemyRobot_20: -1551567211874864294
+      EnemyRobot_3: -92063952982630535
+      EnemyRobot_4: 7843172209349304246
+      EnemyRobot_5: 7108501900311703259
+      EnemyRobot_6: 4516144266011711722
+      EnemyRobot_7: -4445155555343678045
+      EnemyRobot_8: -8995847468020431386
+      EnemyRobot_9: 5519222252387122702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
