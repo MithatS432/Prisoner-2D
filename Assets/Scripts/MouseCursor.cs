@@ -6,20 +6,25 @@ public class MouseCursor : MonoBehaviour
     public Vector2 hotspot = Vector2.zero;
     public CursorMode cursorMode = CursorMode.Auto;
     public ParticleSystem clickParticle;
+    private AudioSource clickSound;
 
     void Start()
     {
         Cursor.SetCursor(cursorTexture, hotspot, cursorMode);
+        clickSound = GetComponent<AudioSource>();
     }
+
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
         {
             Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            mousePos.z = 0;
+            mousePos.z = Camera.main.nearClipPlane + 0.1f;
+            clickSound.Play();
 
-            ParticleSystem lightParticle = Instantiate(clickParticle, mousePos, Quaternion.identity);
-            Destroy(lightParticle, 1f);
+            ParticleSystem particle = Instantiate(clickParticle, mousePos, Quaternion.identity);
+            particle.Play();
+            Destroy(particle.gameObject, particle.main.duration);
         }
     }
 }
