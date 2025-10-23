@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 8c4197aa26cdb5a49b92fd4545ace1e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5798628395680200775
+    second: Look_Sides_Body_067_0
+  - first:
+      213: -5198684525645250184
+    second: Look_Sides_Body_067_1
+  - first:
+      213: -125957203928010547
+    second: Look_Sides_Body_067_2
+  - first:
+      213: 8273628161487177284
+    second: Look_Sides_Body_067_3
+  - first:
+      213: -4402227780947492345
+    second: Look_Sides_Body_067_4
+  - first:
+      213: 568470555603542871
+    second: Look_Sides_Body_067_5
+  - first:
+      213: -8722231614652175917
+    second: Look_Sides_Body_067_6
+  - first:
+      213: -3392963213108126461
+    second: Look_Sides_Body_067_7
+  - first:
+      213: -6248937674900675743
+    second: Look_Sides_Body_067_8
+  - first:
+      213: -8593710772525841864
+    second: Look_Sides_Body_067_9
+  - first:
+      213: 3598000432748878782
+    second: Look_Sides_Body_067_10
+  - first:
+      213: 3295471113104536286
+    second: Look_Sides_Body_067_11
+  - first:
+      213: -7317411543466258921
+    second: Look_Sides_Body_067_12
+  - first:
+      213: -1663966794219003046
+    second: Look_Sides_Body_067_13
+  - first:
+      213: -7853511670963529193
+    second: Look_Sides_Body_067_14
+  - first:
+      213: -5706830196212026749
+    second: Look_Sides_Body_067_15
+  - first:
+      213: -7236890183358584222
+    second: Look_Sides_Body_067_16
+  - first:
+      213: 8131297663027728189
+    second: Look_Sides_Body_067_17
+  - first:
+      213: -2205613186661404229
+    second: Look_Sides_Body_067_18
+  - first:
+      213: -5855599255183934877
+    second: Look_Sides_Body_067_19
+  - first:
+      213: 8833847820492654967
+    second: Look_Sides_Body_067_20
+  - first:
+      213: -7470057245790294846
+    second: Look_Sides_Body_067_21
+  - first:
+      213: -893002808342967428
+    second: Look_Sides_Body_067_22
+  - first:
+      213: -2924149297939007602
+    second: Look_Sides_Body_067_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 851
+        width: 155
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b70df25232278fa0800000000000000
+      internalID: -5798628395680200775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 851
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871489db7ff8ad7b0800000000000000
+      internalID: -5198684525645250184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 851
+        width: 145
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc038f22792804ef0800000000000000
+      internalID: -125957203928010547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_3
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 851
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4468c113af4d1d270800000000000000
+      internalID: 8273628161487177284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_4
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 851
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702c440482528e2c0800000000000000
+      internalID: -4402227780947492345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_5
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 852
+        width: 136
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753a40c55fc93e700800000000000000
+      internalID: 568470555603542871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 595
+        width: 138
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9a9ff0f8864f680800000000000000
+      internalID: -8722231614652175917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 595
+        width: 139
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dd8b23fe5c9e0d0800000000000000
+      internalID: -3392963213108126461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 595
+        width: 139
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1636dfffa405749a0800000000000000
+      internalID: -6248937674900675743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_9
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 594
+        width: 139
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832462575910db880800000000000000
+      internalID: -8593710772525841864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_10
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 595
+        width: 140
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbd2bf945aaee130800000000000000
+      internalID: 3598000432748878782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_11
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 595
+        width: 140
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed23828648ddbbd20800000000000000
+      internalID: 3295471113104536286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 339
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ec95478f4537a90800000000000000
+      internalID: -7317411543466258921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 338
+        width: 140
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53e788440768e8e0800000000000000
+      internalID: -1663966794219003046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_14
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 338
+        width: 140
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a95d4beb8b20390800000000000000
+      internalID: -7853511670963529193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_15
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 338
+        width: 141
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3823f413c244dc0b0800000000000000
+      internalID: -5706830196212026749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_16
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 338
+        width: 141
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a666e88b6619b90800000000000000
+      internalID: -7236890183358584222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_17
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 338
+        width: 144
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f4bbf942c28d070800000000000000
+      internalID: 8131297663027728189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 82
+        width: 148
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb131291e761461e0800000000000000
+      internalID: -2205613186661404229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 82
+        width: 153
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a38bf608bbcbea0800000000000000
+      internalID: -5855599255183934877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_20
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 83
+        width: 157
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779c25cf9c1289a70800000000000000
+      internalID: 8833847820492654967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_21
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 83
+        width: 160
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc26d45386055890800000000000000
+      internalID: -7470057245790294846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_22
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 83
+        width: 161
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b8a495daa6b93f0800000000000000
+      internalID: -893002808342967428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Look_Sides_Body_067_23
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 83
+        width: 156
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e873322d4b55b67d0800000000000000
+      internalID: -2924149297939007602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Look_Sides_Body_067_0: -5798628395680200775
+      Look_Sides_Body_067_1: -5198684525645250184
+      Look_Sides_Body_067_10: 3598000432748878782
+      Look_Sides_Body_067_11: 3295471113104536286
+      Look_Sides_Body_067_12: -7317411543466258921
+      Look_Sides_Body_067_13: -1663966794219003046
+      Look_Sides_Body_067_14: -7853511670963529193
+      Look_Sides_Body_067_15: -5706830196212026749
+      Look_Sides_Body_067_16: -7236890183358584222
+      Look_Sides_Body_067_17: 8131297663027728189
+      Look_Sides_Body_067_18: -2205613186661404229
+      Look_Sides_Body_067_19: -5855599255183934877
+      Look_Sides_Body_067_2: -125957203928010547
+      Look_Sides_Body_067_20: 8833847820492654967
+      Look_Sides_Body_067_21: -7470057245790294846
+      Look_Sides_Body_067_22: -893002808342967428
+      Look_Sides_Body_067_23: -2924149297939007602
+      Look_Sides_Body_067_3: 8273628161487177284
+      Look_Sides_Body_067_4: -4402227780947492345
+      Look_Sides_Body_067_5: 568470555603542871
+      Look_Sides_Body_067_6: -8722231614652175917
+      Look_Sides_Body_067_7: -3392963213108126461
+      Look_Sides_Body_067_8: -6248937674900675743
+      Look_Sides_Body_067_9: -8593710772525841864
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

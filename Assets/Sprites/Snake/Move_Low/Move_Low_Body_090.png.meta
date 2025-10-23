@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 9741974b588ed9b48b713e9ff6eed3c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8656948123814415315
+    second: Move_Low_Body_090_0
+  - first:
+      213: -2152662892235169321
+    second: Move_Low_Body_090_1
+  - first:
+      213: -6710885336116950442
+    second: Move_Low_Body_090_2
+  - first:
+      213: -3096107909990373086
+    second: Move_Low_Body_090_3
+  - first:
+      213: 4552938110109242301
+    second: Move_Low_Body_090_4
+  - first:
+      213: 98447954041875024
+    second: Move_Low_Body_090_5
+  - first:
+      213: 21218173625693252
+    second: Move_Low_Body_090_6
+  - first:
+      213: 7302987766991304203
+    second: Move_Low_Body_090_7
+  - first:
+      213: 526131638154060078
+    second: Move_Low_Body_090_8
+  - first:
+      213: 4059182245611606584
+    second: Move_Low_Body_090_9
+  - first:
+      213: 3667544300994938691
+    second: Move_Low_Body_090_10
+  - first:
+      213: 3614466541868336467
+    second: Move_Low_Body_090_11
+  - first:
+      213: -464686145195797115
+    second: Move_Low_Body_090_12
+  - first:
+      213: 6234659499400654359
+    second: Move_Low_Body_090_13
+  - first:
+      213: -8200643395432352493
+    second: Move_Low_Body_090_14
+  - first:
+      213: 738185213303604409
+    second: Move_Low_Body_090_15
+  - first:
+      213: 1613243951809438458
+    second: Move_Low_Body_090_16
+  - first:
+      213: 1113572875666100279
+    second: Move_Low_Body_090_17
+  - first:
+      213: 4225573863256203514
+    second: Move_Low_Body_090_18
+  - first:
+      213: -2429462996491123142
+    second: Move_Low_Body_090_19
+  - first:
+      213: -1989160150494386882
+    second: Move_Low_Body_090_20
+  - first:
+      213: 7279168640052866008
+    second: Move_Low_Body_090_21
+  - first:
+      213: 2799616507171252175
+    second: Move_Low_Body_090_22
+  - first:
+      213: 3727326053206548058
+    second: Move_Low_Body_090_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Move_Low_Body_090_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 866
+        width: 202
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24be014c875cd780800000000000000
+      internalID: -8656948123814415315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 865
+        width: 208
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1682b31843022e0800000000000000
+      internalID: -2152662892235169321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 864
+        width: 210
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a0f54b7552ed2a0800000000000000
+      internalID: -6710885336116950442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_3
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 862
+        width: 204
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2292fbe724a6805d0800000000000000
+      internalID: -3096107909990373086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_4
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 861
+        width: 204
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db35661b6194f2f30800000000000000
+      internalID: 4552938110109242301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_5
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 865
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aa78184e1cd5100800000000000000
+      internalID: 98447954041875024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 611
+        width: 215
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444fdb501d16b4000800000000000000
+      internalID: 21218173625693252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 614
+        width: 210
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b063a826eac695560800000000000000
+      internalID: 7302987766991304203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_8
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 613
+        width: 210
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e216445ffe13d4700800000000000000
+      internalID: 526131638154060078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_9
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 610
+        width: 208
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8329044febc155830800000000000000
+      internalID: 4059182245611606584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_10
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 612
+        width: 205
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347cfca3c1cb5e230800000000000000
+      internalID: 3667544300994938691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_11
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 614
+        width: 207
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355c8986b2a292230800000000000000
+      internalID: 3614466541868336467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 353
+        width: 208
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5851f87b96a1d89f0800000000000000
+      internalID: -464686145195797115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 354
+        width: 209
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e6a4538c5f58650800000000000000
+      internalID: 6234659499400654359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_14
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 354
+        width: 202
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315f99dd746713e80800000000000000
+      internalID: -8200643395432352493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_15
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 350
+        width: 201
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b448695a8f8e3a00800000000000000
+      internalID: 738185213303604409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_16
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 351
+        width: 209
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af226aba3d4636610800000000000000
+      internalID: 1613243951809438458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_17
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 354
+        width: 215
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730969561a4347f00800000000000000
+      internalID: 1113572875666100279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 98
+        width: 216
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0af836a0144aa30800000000000000
+      internalID: 4225573863256203514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 100
+        width: 212
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36c03bc640d84ed0800000000000000
+      internalID: -2429462996491123142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 100
+        width: 203
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e356b64d1651564e0800000000000000
+      internalID: -1989160150494386882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_21
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 98
+        width: 197
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dba38abf4dc40560800000000000000
+      internalID: 7279168640052866008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_22
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 100
+        width: 195
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc72349516c3ad620800000000000000
+      internalID: 2799616507171252175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_Low_Body_090_23
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 99
+        width: 196
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e5f631c4f1ab330800000000000000
+      internalID: 3727326053206548058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Move_Low_Body_090_0: -8656948123814415315
+      Move_Low_Body_090_1: -2152662892235169321
+      Move_Low_Body_090_10: 3667544300994938691
+      Move_Low_Body_090_11: 3614466541868336467
+      Move_Low_Body_090_12: -464686145195797115
+      Move_Low_Body_090_13: 6234659499400654359
+      Move_Low_Body_090_14: -8200643395432352493
+      Move_Low_Body_090_15: 738185213303604409
+      Move_Low_Body_090_16: 1613243951809438458
+      Move_Low_Body_090_17: 1113572875666100279
+      Move_Low_Body_090_18: 4225573863256203514
+      Move_Low_Body_090_19: -2429462996491123142
+      Move_Low_Body_090_2: -6710885336116950442
+      Move_Low_Body_090_20: -1989160150494386882
+      Move_Low_Body_090_21: 7279168640052866008
+      Move_Low_Body_090_22: 2799616507171252175
+      Move_Low_Body_090_23: 3727326053206548058
+      Move_Low_Body_090_3: -3096107909990373086
+      Move_Low_Body_090_4: 4552938110109242301
+      Move_Low_Body_090_5: 98447954041875024
+      Move_Low_Body_090_6: 21218173625693252
+      Move_Low_Body_090_7: 7302987766991304203
+      Move_Low_Body_090_8: 526131638154060078
+      Move_Low_Body_090_9: 4059182245611606584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: b15bb44dd68c7c7449e84aded9e63385
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2364225978695954210
+    second: Move_High_Body_202_0
+  - first:
+      213: 6607276117598435684
+    second: Move_High_Body_202_1
+  - first:
+      213: 1005096955260946722
+    second: Move_High_Body_202_2
+  - first:
+      213: 2386455355708481601
+    second: Move_High_Body_202_3
+  - first:
+      213: -6300510179294064876
+    second: Move_High_Body_202_4
+  - first:
+      213: -4454684592681774675
+    second: Move_High_Body_202_5
+  - first:
+      213: -7979201170092654662
+    second: Move_High_Body_202_6
+  - first:
+      213: -4281029511818084005
+    second: Move_High_Body_202_7
+  - first:
+      213: 8104019466376952681
+    second: Move_High_Body_202_8
+  - first:
+      213: 7620207440067722200
+    second: Move_High_Body_202_9
+  - first:
+      213: 830961372349870084
+    second: Move_High_Body_202_10
+  - first:
+      213: -1058299849364965641
+    second: Move_High_Body_202_11
+  - first:
+      213: -7376284188051287754
+    second: Move_High_Body_202_12
+  - first:
+      213: -1696791041541964631
+    second: Move_High_Body_202_13
+  - first:
+      213: -7307530583024767494
+    second: Move_High_Body_202_14
+  - first:
+      213: 599368312376422504
+    second: Move_High_Body_202_15
+  - first:
+      213: 3674724682279398323
+    second: Move_High_Body_202_16
+  - first:
+      213: 1350529196975691600
+    second: Move_High_Body_202_17
+  - first:
+      213: -9059948405600872619
+    second: Move_High_Body_202_18
+  - first:
+      213: -6802218374178470962
+    second: Move_High_Body_202_19
+  - first:
+      213: 3903568639288631373
+    second: Move_High_Body_202_20
+  - first:
+      213: -127033703925591474
+    second: Move_High_Body_202_21
+  - first:
+      213: 8681252186203388657
+    second: Move_High_Body_202_22
+  - first:
+      213: 2403992517062577239
+    second: Move_High_Body_202_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Move_High_Body_202_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 837
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f2cec500b6fc020800000000000000
+      internalID: 2364225978695954210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 832
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46970624f92c1bb50800000000000000
+      internalID: 6607276117598435684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 828
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229c7270b52d2fd00800000000000000
+      internalID: 1005096955260946722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_3
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 825
+        width: 99
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140255580846e1120800000000000000
+      internalID: 2386455355708481601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_4
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 821
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fc17b9f571098a0800000000000000
+      internalID: -6300510179294064876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_5
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 816
+        width: 83
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da11cc207f7cd22c0800000000000000
+      internalID: -4454684592681774675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 558
+        width: 73
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abffe39bfce244190800000000000000
+      internalID: -7979201170092654662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 562
+        width: 77
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b518e13475ab694c0800000000000000
+      internalID: -4281029511818084005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_8
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 568
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bbf3a84c2477070800000000000000
+      internalID: 8104019466376952681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_9
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 572
+        width: 88
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db760c0b4a60c960800000000000000
+      internalID: 7620207440067722200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_10
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 573
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4003cfc27fa288b00800000000000000
+      internalID: 830961372349870084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_11
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 574
+        width: 97
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f670c4e4e92051f0800000000000000
+      internalID: -1058299849364965641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 318
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6315fd8bc9c22a990800000000000000
+      internalID: -7376284188051287754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 316
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac73d6a989c378e0800000000000000
+      internalID: -1696791041541964631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 313
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd6185d6af669a90800000000000000
+      internalID: -7307530583024767494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_15
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 311
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86072d4fd42615800800000000000000
+      internalID: 599368312376422504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_16
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 308
+        width: 83
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbaf9601ae3ff230800000000000000
+      internalID: 3674724682279398323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_17
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 307
+        width: 71
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0579784362b0eb210800000000000000
+      internalID: 1350529196975691600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 51
+        width: 68
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5571bc04de8944280800000000000000
+      internalID: -9059948405600872619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 54
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3057aad6aa991a0800000000000000
+      internalID: -6802218374178470962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_20
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 59
+        width: 79
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d406725def24c2630800000000000000
+      internalID: 3903568639288631373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_21
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 66
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e425303f48fac3ef0800000000000000
+      internalID: -127033703925591474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_22
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 70
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa7c3c3ed00a7870800000000000000
+      internalID: 8681252186203388657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_High_Body_202_23
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 72
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c46361572bc5120800000000000000
+      internalID: 2403992517062577239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Move_High_Body_202_0: 2364225978695954210
+      Move_High_Body_202_1: 6607276117598435684
+      Move_High_Body_202_10: 830961372349870084
+      Move_High_Body_202_11: -1058299849364965641
+      Move_High_Body_202_12: -7376284188051287754
+      Move_High_Body_202_13: -1696791041541964631
+      Move_High_Body_202_14: -7307530583024767494
+      Move_High_Body_202_15: 599368312376422504
+      Move_High_Body_202_16: 3674724682279398323
+      Move_High_Body_202_17: 1350529196975691600
+      Move_High_Body_202_18: -9059948405600872619
+      Move_High_Body_202_19: -6802218374178470962
+      Move_High_Body_202_2: 1005096955260946722
+      Move_High_Body_202_20: 3903568639288631373
+      Move_High_Body_202_21: -127033703925591474
+      Move_High_Body_202_22: 8681252186203388657
+      Move_High_Body_202_23: 2403992517062577239
+      Move_High_Body_202_3: 2386455355708481601
+      Move_High_Body_202_4: -6300510179294064876
+      Move_High_Body_202_5: -4454684592681774675
+      Move_High_Body_202_6: -7979201170092654662
+      Move_High_Body_202_7: -4281029511818084005
+      Move_High_Body_202_8: 8104019466376952681
+      Move_High_Body_202_9: 7620207440067722200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

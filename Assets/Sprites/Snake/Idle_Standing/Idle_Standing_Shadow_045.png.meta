@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 16df769eb58bc294e88af5632d3ca6be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5598121320128893557
+    second: Idle_Standing_Shadow_045_0
+  - first:
+      213: 4349243770374852527
+    second: Idle_Standing_Shadow_045_1
+  - first:
+      213: 2976048883586547109
+    second: Idle_Standing_Shadow_045_2
+  - first:
+      213: -325771446510378264
+    second: Idle_Standing_Shadow_045_3
+  - first:
+      213: 175896646206815117
+    second: Idle_Standing_Shadow_045_4
+  - first:
+      213: 5279763246018756063
+    second: Idle_Standing_Shadow_045_5
+  - first:
+      213: -2047590165015861717
+    second: Idle_Standing_Shadow_045_6
+  - first:
+      213: 3578415803127466632
+    second: Idle_Standing_Shadow_045_7
+  - first:
+      213: 5322060294003125332
+    second: Idle_Standing_Shadow_045_8
+  - first:
+      213: -5258702508884188251
+    second: Idle_Standing_Shadow_045_9
+  - first:
+      213: -8292596133045379680
+    second: Idle_Standing_Shadow_045_10
+  - first:
+      213: -2843393880797791494
+    second: Idle_Standing_Shadow_045_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_Standing_Shadow_045_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 577
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572d2d73ea580bd40800000000000000
+      internalID: 5598121320128893557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Standing_Shadow_045_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 577
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf06c67a2e9b5c30800000000000000
+      internalID: 4349243770374852527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Standing_Shadow_045_2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 577
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adbf5c11bc0d4920800000000000000
+      internalID: 2976048883586547109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Standing_Shadow_045_3
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 578
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2a8cc6890aa7bf0800000000000000
+      internalID: -325771446510378264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Standing_Shadow_045_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 323
+        width: 94
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bf65a5119e07200800000000000000
+      internalID: 175896646206815117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Standing_Shadow_045_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 323
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd7c19e2bc754940800000000000000
+      internalID: 5279763246018756063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Standing_Shadow_045_6
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 323
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2665a0f79f7593e0800000000000000
+      internalID: -2047590165015861717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Standing_Shadow_045_7
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 323
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a8e04b63619a130800000000000000
+      internalID: 3578415803127466632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Standing_Shadow_045_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c6441d3a1cbd940800000000000000
+      internalID: 5322060294003125332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Standing_Shadow_045_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 65
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3a0821ee55507b0800000000000000
+      internalID: -5258702508884188251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Standing_Shadow_045_10
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 65
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad5d08c0c7caec80800000000000000
+      internalID: -8292596133045379680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Standing_Shadow_045_11
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 65
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa3782945c3a88d0800000000000000
+      internalID: -2843393880797791494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle_Standing_Shadow_045_0: 5598121320128893557
+      Idle_Standing_Shadow_045_1: 4349243770374852527
+      Idle_Standing_Shadow_045_10: -8292596133045379680
+      Idle_Standing_Shadow_045_11: -2843393880797791494
+      Idle_Standing_Shadow_045_2: 2976048883586547109
+      Idle_Standing_Shadow_045_3: -325771446510378264
+      Idle_Standing_Shadow_045_4: 175896646206815117
+      Idle_Standing_Shadow_045_5: 5279763246018756063
+      Idle_Standing_Shadow_045_6: -2047590165015861717
+      Idle_Standing_Shadow_045_7: 3578415803127466632
+      Idle_Standing_Shadow_045_8: 5322060294003125332
+      Idle_Standing_Shadow_045_9: -5258702508884188251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

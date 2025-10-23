@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 154db16441bb9d443b4f0d4af6b63cef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3868576519607937570
+    second: Death_Shadow_315_0
+  - first:
+      213: -747702336090696168
+    second: Death_Shadow_315_1
+  - first:
+      213: -323157592843551081
+    second: Death_Shadow_315_2
+  - first:
+      213: 6767936163913610206
+    second: Death_Shadow_315_3
+  - first:
+      213: -7854396417126493598
+    second: Death_Shadow_315_4
+  - first:
+      213: 2302850040438622015
+    second: Death_Shadow_315_5
+  - first:
+      213: -7427022038756017387
+    second: Death_Shadow_315_6
+  - first:
+      213: -2402399167471924844
+    second: Death_Shadow_315_7
+  - first:
+      213: 7232895278765599434
+    second: Death_Shadow_315_8
+  - first:
+      213: 3950921549369345782
+    second: Death_Shadow_315_9
+  - first:
+      213: -8756410025093368689
+    second: Death_Shadow_315_10
+  - first:
+      213: -9016747295004899189
+    second: Death_Shadow_315_11
+  - first:
+      213: 6521291330443082606
+    second: Death_Shadow_315_12
+  - first:
+      213: -5505759813427115035
+    second: Death_Shadow_315_13
+  - first:
+      213: -8441722880395936107
+    second: Death_Shadow_315_14
+  - first:
+      213: 6508787438485466671
+    second: Death_Shadow_315_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Death_Shadow_315_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 839
+        width: 108
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed51a5ae62e005ac0800000000000000
+      internalID: -3868576519607937570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 841
+        width: 117
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8169593dfa0af95f0800000000000000
+      internalID: -747702336090696168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 843
+        width: 121
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ef618a1e9e38bf0800000000000000
+      internalID: -323157592843551081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_3
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 845
+        width: 123
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed33790451a8ced50800000000000000
+      internalID: 6767936163913610206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 590
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2621310b2149ff290800000000000000
+      internalID: -7854396417126493598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 593
+        width: 123
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37865729ed55ff10800000000000000
+      internalID: 2302850040438622015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 595
+        width: 124
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b33f84ecaede890800000000000000
+      internalID: -7427022038756017387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_7
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 600
+        width: 131
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49944268fa6f8aed0800000000000000
+      internalID: -2402399167471924844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 349
+        width: 135
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca6c6c3fe7606460800000000000000
+      internalID: 7232895278765599434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 352
+        width: 137
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6889d573e74d630800000000000000
+      internalID: 3950921549369345782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_10
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 352
+        width: 138
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84f3a2c97bfa7680800000000000000
+      internalID: -8756410025093368689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_11
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 352
+        width: 139
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88c4c3ab141ed280800000000000000
+      internalID: -9016747295004899189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 94
+        width: 140
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bf4ebe9e7408a50800000000000000
+      internalID: 6521291330443082606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 93
+        width: 140
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb4e06de9c9793b0800000000000000
+      internalID: -5505759813427115035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_14
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 92
+        width: 138
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e76b534c9f8da80800000000000000
+      internalID: -8441722880395936107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Shadow_315_15
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 92
+        width: 135
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e6375b0bbd35a50800000000000000
+      internalID: 6508787438485466671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Death_Shadow_315_0: -3868576519607937570
+      Death_Shadow_315_1: -747702336090696168
+      Death_Shadow_315_10: -8756410025093368689
+      Death_Shadow_315_11: -9016747295004899189
+      Death_Shadow_315_12: 6521291330443082606
+      Death_Shadow_315_13: -5505759813427115035
+      Death_Shadow_315_14: -8441722880395936107
+      Death_Shadow_315_15: 6508787438485466671
+      Death_Shadow_315_2: -323157592843551081
+      Death_Shadow_315_3: 6767936163913610206
+      Death_Shadow_315_4: -7854396417126493598
+      Death_Shadow_315_5: 2302850040438622015
+      Death_Shadow_315_6: -7427022038756017387
+      Death_Shadow_315_7: -2402399167471924844
+      Death_Shadow_315_8: 7232895278765599434
+      Death_Shadow_315_9: 3950921549369345782
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
