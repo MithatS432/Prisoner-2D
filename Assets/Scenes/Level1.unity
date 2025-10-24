@@ -999,11 +999,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1715090431725841146, guid: e344011ce91809b429f6260060f6a397, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.18
+      value: -9.25
       objectReference: {fileID: 0}
     - target: {fileID: 1715090431725841146, guid: e344011ce91809b429f6260060f6a397, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.78
+      value: -3.45
       objectReference: {fileID: 0}
     - target: {fileID: 1715090431725841146, guid: e344011ce91809b429f6260060f6a397, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1040,10 +1040,6 @@ PrefabInstance:
     - target: {fileID: 6894645536984723477, guid: e344011ce91809b429f6260060f6a397, type: 3}
       propertyPath: m_Name
       value: EnemyRobot
-      objectReference: {fileID: 0}
-    - target: {fileID: 6894645536984723477, guid: e344011ce91809b429f6260060f6a397, type: 3}
-      propertyPath: m_TagString
-      value: Enemy
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1332,6 +1328,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1173134373}
   - component: {fileID: 1173134372}
+  - component: {fileID: 1173134374}
   m_Layer: 0
   m_Name: Background_0
   m_TagString: Untagged
@@ -1409,6 +1406,52 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1173134374
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1173134371}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 15.36, y: 10.24}
+    newSize: {x: 15.36, y: 10.24}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 15.36, y: 10.24}
+  m_EdgeRadius: 0
 --- !u!1 &1190532989
 GameObject:
   m_ObjectHideFlags: 0
@@ -1878,11 +1921,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2689844576772062761, guid: e55e4851134b18848a5bc5f56efaa290, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.8085773
+      value: 1.26
       objectReference: {fileID: 0}
     - target: {fileID: 2689844576772062761, guid: e55e4851134b18848a5bc5f56efaa290, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.78
+      value: -3.34
       objectReference: {fileID: 0}
     - target: {fileID: 2689844576772062761, guid: e55e4851134b18848a5bc5f56efaa290, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1917,21 +1960,17 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3989924636012149519, guid: e55e4851134b18848a5bc5f56efaa290, type: 3}
-      propertyPath: speed
-      value: 10
+      propertyPath: jumpForce
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 3989924636012149519, guid: e55e4851134b18848a5bc5f56efaa290, type: 3}
-      propertyPath: jumpForce
-      value: 5
-      objectReference: {fileID: 0}
+      propertyPath: snakeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 1fa6a9ae1b46f5e408207c144cfc1d31, type: 3}
     - target: {fileID: 3989924636012149519, guid: e55e4851134b18848a5bc5f56efaa290, type: 3}
       propertyPath: pauseButton
       value: 
       objectReference: {fileID: 1190532991}
-    - target: {fileID: 3989924636012149519, guid: e55e4851134b18848a5bc5f56efaa290, type: 3}
-      propertyPath: snakeObject
-      value: 
-      objectReference: {fileID: 8790249245673112739, guid: f11ba8ec50eaa854185f728da62a1b81, type: 3}
     - target: {fileID: 3989924636012149519, guid: e55e4851134b18848a5bc5f56efaa290, type: 3}
       propertyPath: continueButton
       value: 
@@ -1940,6 +1979,18 @@ PrefabInstance:
       propertyPath: quitGameButton
       value: 
       objectReference: {fileID: 1749807407}
+    - target: {fileID: 3989924636012149519, guid: e55e4851134b18848a5bc5f56efaa290, type: 3}
+      propertyPath: snakeCountText
+      value: 
+      objectReference: {fileID: 1073862335}
+    - target: {fileID: 7061528486969133290, guid: e55e4851134b18848a5bc5f56efaa290, type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7061528486969133290, guid: e55e4851134b18848a5bc5f56efaa290, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

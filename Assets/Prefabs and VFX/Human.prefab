@@ -290,3 +290,6 @@ MonoBehaviour:
   pauseButton: {fileID: 0}
   continueButton: {fileID: 0}
   quitGameButton: {fileID: 0}
+  speed: 10
+  jumpForce: 5
+  snakeObject: {fileID: 8790249245673112739, guid: f11ba8ec50eaa854185f728da62a1b81, type: 3}
