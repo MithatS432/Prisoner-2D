@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class Human : MonoBehaviour
 {
@@ -22,7 +23,13 @@ public class Human : MonoBehaviour
     public bool isGround;
     public TextMeshProUGUI snakeCountText;
     private int snakeCount = 3;
-    public GameObject parallaxBackGround;
+    public TextMeshProUGUI gemCountText;
+    private int collectedGems = 0;
+    public AudioClip gemSound;
+
+    [Header("Parallax Settings")]
+    public Transform background;
+    public float backgroundWidth = 20f;
 
     void Start()
     {
@@ -78,11 +85,29 @@ public class Human : MonoBehaviour
             snakeCount--;
             snakeCountText.text = "Snake Count:" + snakeCount.ToString();
         }
+        if (background.position.x <= transform.position.x - backgroundWidth / 2f)
+        {
+            background.position += new Vector3(backgroundWidth, 0f, 0f);
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.CompareTag("Ground"))
             isGround = true;
+
+        else if (other.gameObject.CompareTag("Enemy"))
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Gem"))
+        {
+            collectedGems++;
+            gemCountText.text = "Gems:" + collectedGems.ToString();
+            AudioSource.PlayClipAtPoint(gemSound, transform.position, 1f);
+            Destroy(other.gameObject);
+        }
+
     }
 }

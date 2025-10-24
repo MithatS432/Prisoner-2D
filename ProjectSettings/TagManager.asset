@@ -7,6 +7,7 @@ TagManager:
   - Enemy
   - Ground
   - Snake
+  - Gem
   layers:
   - Default
   - TransparentFX
