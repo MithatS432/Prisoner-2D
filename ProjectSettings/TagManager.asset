@@ -8,6 +8,8 @@ TagManager:
   - Ground
   - Snake
   - Gem
+  - Obstacle
+  - Next Level
   layers:
   - Default
   - TransparentFX
@@ -15,7 +17,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - ObstacleLayer
   - 
   - 
   - 

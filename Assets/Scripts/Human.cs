@@ -25,8 +25,9 @@ public class Human : MonoBehaviour
     private int snakeCount = 3;
     public TextMeshProUGUI gemCountText;
     private int collectedGems = 0;
+    private int totalGems = 0;
     public AudioClip gemSound;
-
+    int snakeForGem = 2;
     [Header("Parallax Settings")]
     public Transform background;
     public float backgroundWidth = 20f;
@@ -103,10 +104,17 @@ public class Human : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Gem"))
         {
+            totalGems++;
             collectedGems++;
-            gemCountText.text = "Gems:" + collectedGems.ToString();
+            gemCountText.text = "Gems:" + totalGems.ToString();
             AudioSource.PlayClipAtPoint(gemSound, transform.position, 1f);
             Destroy(other.gameObject);
+            if (collectedGems == 3)
+            {
+                snakeCount += snakeForGem;
+                snakeCountText.text = "Snake Count:" + snakeCount.ToString();
+                collectedGems = 0;
+            }
         }
 
     }
