@@ -28,6 +28,10 @@ public class Human : MonoBehaviour
     private int totalGems = 0;
     public AudioClip gemSound;
     int snakeForGem = 2;
+    public GameObject runEffect;
+    public bool isRunning;
+    public AudioClip jumpSound;
+
     [Header("Parallax Settings")]
     public Transform background;
     public float backgroundWidth = 20f;
@@ -74,8 +78,20 @@ public class Human : MonoBehaviour
     private void Update()
     {
         transform.Translate(Vector3.right * speed * Time.deltaTime);
+        isRunning = true;
+        Vector3 effectPos = new Vector3(
+            Camera.main.transform.position.x,
+            Camera.main.transform.position.y,
+            Camera.main.nearClipPlane + 0.1f
+        ); if (isGround && isRunning)
+        {
+            GameObject effect = Instantiate(runEffect, effectPos, Quaternion.identity);
+            Destroy(effect, 0.1f);
+        }
+
         if (Input.GetKeyDown(KeyCode.Space) && isGround)
         {
+            AudioSource.PlayClipAtPoint(jumpSound, transform.position);
             prb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             isGround = false;
         }
@@ -116,6 +132,9 @@ public class Human : MonoBehaviour
                 collectedGems = 0;
             }
         }
+        else if (other.gameObject.CompareTag("Next Level"))
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
 
     }
 }

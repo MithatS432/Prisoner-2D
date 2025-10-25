@@ -298,5 +298,8 @@ MonoBehaviour:
   snakeCountText: {fileID: 0}
   gemCountText: {fileID: 0}
   gemSound: {fileID: 8300000, guid: 31b361e03d9af1140aeb348cf78ff78b, type: 3}
+  runEffect: {fileID: 7994509942009629919, guid: 5d7edbc1439da48459c3c454b2b044e9, type: 3}
+  isRunning: 0
+  jumpSound: {fileID: 8300000, guid: 10f7503ccbc8b69408094bde3d4bdd08, type: 3}
   background: {fileID: 0}
   backgroundWidth: 20
