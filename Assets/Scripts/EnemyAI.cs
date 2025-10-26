@@ -35,7 +35,7 @@ public class EnemyAI : MonoBehaviour
         timer += Time.deltaTime;
         if (timer >= speedIncreaseInterval)
         {
-            speed += 0.5f;
+            speed += 1f;
             timer = 0f;
         }
     }
@@ -95,6 +95,16 @@ public class EnemyAI : MonoBehaviour
         speed = Mathf.Max(2f, speed - 2f);
         yield return new WaitForSeconds(delay);
         speed = originalSpeed;
+    }
+    public void ReduceSpeed(float amount)
+    {
+        speed -= amount;
+        if (speed < 0f)
+            speed = 1f;
+    }
+    public void BoostSpeed(float value)
+    {
+        speed += value;
     }
 
 }

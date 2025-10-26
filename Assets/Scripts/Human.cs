@@ -9,6 +9,10 @@ public class Human : MonoBehaviour
     public Button pauseButton;
     public Button continueButton;
     public Button quitGameButton;
+    public GameObject winPanel;
+    public Button nextButton;
+    public TextMeshProUGUI totalGemCount;
+    public TextMeshProUGUI totalSnakeCount;
 
     [Header("Components")]
     private Rigidbody2D prb;
@@ -36,15 +40,40 @@ public class Human : MonoBehaviour
     public Transform background;
     public float backgroundWidth = 20f;
 
+    void Awake()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    void OnDestroy()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        SetupUI();
+    }
+
+    void SetupUI()
+    {
+        if (pauseButton == null)
+            pauseButton = GameObject.Find("Pause")?.GetComponent<Button>();
+        if (continueButton == null)
+            continueButton = GameObject.Find("Continue")?.GetComponent<Button>();
+        if (quitGameButton == null)
+            quitGameButton = GameObject.Find("Exit Game")?.GetComponent<Button>();
+        if (nextButton == null)
+            nextButton = GameObject.Find("Next")?.GetComponent<Button>();
+
+        if (pauseButton != null) { pauseButton.onClick.RemoveAllListeners(); pauseButton.onClick.AddListener(PauseGame); }
+        if (continueButton != null) { continueButton.onClick.RemoveAllListeners(); continueButton.onClick.AddListener(ContinueGame); }
+        if (quitGameButton != null) { quitGameButton.onClick.RemoveAllListeners(); quitGameButton.onClick.AddListener(QuitGame); }
+    }
+
+
     void Start()
     {
-        if (pauseButton != null)
-            pauseButton.onClick.AddListener(PauseGame);
-        if (continueButton != null)
-            continueButton.onClick.AddListener(ContinueGame);
-        if (quitGameButton != null)
-            quitGameButton.onClick.AddListener(QuitGame);
-
         prb = GetComponent<Rigidbody2D>();
         pa = GetComponent<Animator>();
         pas = GetComponent<AudioSource>();
@@ -74,16 +103,12 @@ public class Human : MonoBehaviour
         UnityEditor.EditorApplication.isPlaying = false;
 #endif
     }
-
     private void Update()
     {
         transform.Translate(Vector3.right * speed * Time.deltaTime);
         isRunning = true;
-        Vector3 effectPos = new Vector3(
-            Camera.main.transform.position.x,
-            Camera.main.transform.position.y,
-            Camera.main.nearClipPlane + 0.1f
-        ); if (isGround && isRunning)
+        Vector3 effectPos = transform.position + Vector3.down * 0.5f;
+        if (isGround && isRunning)
         {
             GameObject effect = Instantiate(runEffect, effectPos, Quaternion.identity);
             Destroy(effect, 0.1f);
@@ -130,11 +155,32 @@ public class Human : MonoBehaviour
                 snakeCount += snakeForGem;
                 snakeCountText.text = "Snake Count:" + snakeCount.ToString();
                 collectedGems = 0;
+                EnemyAI enemy = FindObjectOfType<EnemyAI>();
+                if (enemy != null)
+                {
+                    enemy.ReduceSpeed(3f);
+                }
             }
+            if (totalGems == 20)
+            {
+                EnemyAI enemy = FindObjectOfType<EnemyAI>();
+                if (enemy != null)
+                {
+                    enemy.BoostSpeed(20f);
+                }
+
+            }
+
         }
         else if (other.gameObject.CompareTag("Next Level"))
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-
-
+        {
+            if (winPanel != null)
+            {
+                winPanel.SetActive(true);
+                Time.timeScale = 0f;
+                totalGemCount.text = "Collected Gems:" + totalGems.ToString();
+                totalSnakeCount.text = "Snakes:" + snakeCount.ToString();
+            }
+        }
     }
 }
